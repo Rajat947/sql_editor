@@ -1,0 +1,15 @@
+.outputArea{
+    height: 250px;
+}
+.output
+{
+    padding: 15px 10px;
+    font-weight: 900;
+    text-align: center;
+}
+.showError
+{
+    padding: 15px 10px;
+    font-weight: 900;
+    color: red;
+}

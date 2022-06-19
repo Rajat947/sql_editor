@@ -1,0 +1,56 @@
+.inputArea
+{
+    background-color: aliceblue;
+    height: 250px;
+}
+
+.title
+{
+    background-color: #1c2130;
+    margin: 0px !important;
+}
+.title > div{
+    padding: 15px 10px;
+    font-weight: 900;
+}
+.title .col-11
+{
+    border: solid #b1a4a4;
+    border-width: 0px 0px 2px 2px;
+    background-color: #2d2f34;
+}
+.title-name
+{
+    text-align: center;
+    
+}
+.nav, .nav-item
+{
+    padding: 0px 30px;
+}
+.inputArea textarea, .inputArea textarea:focus{
+    width: 100%;
+    padding: 20px;
+    height: 100%;
+    font-size: 20px;
+    background-color: #1c2130;
+    resize: none;
+    border: none;
+    overflow: auto;
+    outline: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    color: whitesmoke;
+}
+
+.btn{
+    background-color: #1c2130;
+    padding: 10px 30px;
+    border: 1px solid white !important;
+    color: white !important;
+}
+option
+{
+    color: black;
+}

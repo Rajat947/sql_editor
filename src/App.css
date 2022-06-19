@@ -1,0 +1,16 @@
+.Header
+{
+    padding: 1vw 1.5vw;
+    color: white;
+    font-size: 1vw;
+    border: solid #b1a4a4;
+    border-width: 0px 0px 2px 0px;
+}
+.wrapper
+{
+    width: 93%;
+    margin: 0px auto;
+    border: solid #b1a4a4;
+    color: white;
+    border-width: 0px 2px;
+}
