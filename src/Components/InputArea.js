@@ -27,7 +27,7 @@ function InputArea(prop) {
                             <option value="" >Edit</option>
                             <option value="SELECT * FROM Customer;">Example 1</option>
                             <option value="SELECT * FROM Customers WHERE Country='Germany' AND City='Berlin';">Example 2</option>
-                            <option value="UPDATE Customers SET ContactName = 'Alfred Schmidt', City= 'Frankfurt' WHERE CustomerID = 1;">Exampple 3</option>
+                            <option value="UPDATE Customers SET ContactName = 'Alfred Schmidt', City= 'Frankfurt' WHERE CustomerID = 1;">Example 3</option>
                         </select>
                     </li>
                     <li className="nav-item">
