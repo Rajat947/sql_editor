@@ -28,8 +28,6 @@ A component editor has two child component:
 ## Load / Render Time
 Overall rendering time of application is `213.7ms`, measured using `React Profiler`.
 
-Detailed JSON report of Profiler : [Report]("Readme_img/Report.json")
-
 ## Optimisations
 
 To optimize the overall performance app is divided into different components. Every component in the app renders only for particular operations. While taking input, only the `InputArea` will render till the user press the run button, same applies to other components as well.
