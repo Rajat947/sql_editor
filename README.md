@@ -1,6 +1,7 @@
 <h1 align="center"><b>SQL Editor</b></h1>
 A dummy web application capable of running and displaying results of SQL queries.
 
+
 ## Overview
 The whole app is structured, as shown in the image below.
 
